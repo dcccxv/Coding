@@ -140,6 +140,18 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="source.cpp" />
+    <ClCompile Include="소스.cpp" />
+    <ClCompile Include="소스1.cpp" />
+    <ClCompile Include="소스10.cpp" />
+    <ClCompile Include="소스11.cpp" />
+    <ClCompile Include="소스2.cpp" />
+    <ClCompile Include="소스3.cpp" />
+    <ClCompile Include="소스4.cpp" />
+    <ClCompile Include="소스5.cpp" />
+    <ClCompile Include="소스6.cpp" />
+    <ClCompile Include="소스7.cpp" />
+    <ClCompile Include="소스8.cpp" />
+    <ClCompile Include="소스9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
